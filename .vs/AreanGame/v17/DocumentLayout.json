@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\heroes\\viking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\viking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\heroes\\monk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\monk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\winformarenagame\\winformarenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\winformarenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|solutionrelative:consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\winformarenagame\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\winformarenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|c:\\users\\powerpc\\desktop\\arenagame\\areangame\\consolearenagame\\consolearenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|solutionrelative:consolearenagame\\consolearenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\winformarenagame\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Sword.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:28:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Dagger.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Dagger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:28:51.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Knight.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Knight.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:08:15.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Axe.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Axe.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Weapons\\Axe.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Axe.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:15:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.cs [Design]",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:32:47.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WinFormArenaGame.csproj",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\WinFormArenaGame.csproj",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj",
+              "RelativeToolTip": "WinFormArenaGame\\WinFormArenaGame.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T13:32:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monk.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Monk.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Monk.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Monk.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Monk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:31:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\IWeapon.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\IWeapon.cs",
+              "RelativeToolTip": "ArenaGame\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:29:06.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.cs",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:32:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Viking.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Viking.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Viking.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Heroes\\Viking.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Viking.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:18:48.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\GameEngine.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\GameEngine.cs",
+              "RelativeToolTip": "ArenaGame\\GameEngine.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:41:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.Designer.cs",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:32:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ConsoleArenaGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleArenaGame\\Program.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ConsoleArenaGame\\Program.cs",
+              "RelativeToolTip": "ConsoleArenaGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:32:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwEIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:35:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\Program.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\Program.cs",
+              "RelativeToolTip": "WinFormArenaGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:39:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\IHero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IHero.cs",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ArenaGame\\IHero.cs",
+              "RelativeToolTip": "ArenaGame\\IHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:46:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsoleArenaGame.csproj",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "RelativeDocumentMoniker": "ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "RelativeToolTip": "ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T16:15:04.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.resx",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\MainForm.resx",
+              "ToolTip": "C:\\Users\\PowerPC\\Desktop\\ArenaGame\\AreanGame\\WinFormArenaGame\\MainForm.resx",
+              "RelativeToolTip": "WinFormArenaGame\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-21T13:32:48.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
